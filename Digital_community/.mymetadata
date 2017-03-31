@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Digital_community"
+  id="myeclipse.1490973838485"
+  context-root="/Digital_community"
+  j2ee-spec="5.0"
+  archive="Digital_community.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
